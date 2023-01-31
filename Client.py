@@ -1,5 +1,5 @@
 import pygame
-from OnChessMain import main
+#from OnChessMain import main
 
 width = 500
 height = 500
